@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-huggingface
+chromadb
+sentence-transformers
+unstructured[md]
+tiktoken
+torch
+transformers
+huggingface-hub
