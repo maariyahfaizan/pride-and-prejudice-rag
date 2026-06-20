@@ -115,7 +115,7 @@ This will:
 
 ### Retrieved Chunks
 
-<img src = "screenshots/chunks.png">
+<img src = "screenshots/chunks .png">
 
 ### Generated Answer and Souces
 
