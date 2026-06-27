@@ -117,7 +117,7 @@ This will:
 
 <img src = "screenshots/chunks .png">
 
-### Generated Answer and Souces
+### Generated Answer and Sources
 
 <img src = "screenshots/answer_and_sources.png">
 
